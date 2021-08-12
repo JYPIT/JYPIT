@@ -1,16 +1,19 @@
-### Hi there 👋
+# Welcome
 
-<!--
-**JYPIT/JYPIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
+ 
+<img src="https://user-images.githubusercontent.com/68772640/126259290-8e0f6218-584e-4e2f-b1d0-29484efdc0f3.gif" width="100%">
+  
+![JYP's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYPIT&show_icons=true)
+  
+<img src="https://img.shields.io/badge/-blue?style=flat-square&logo=C&logoColor=A8B9CC"/>
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+  
+<img src="https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
+
+# My Blog
+<a href="https://blog.naver.com/jypit"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+</div>
