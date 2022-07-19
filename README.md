@@ -6,9 +6,9 @@
   
 ![JYP's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYPIT&show_icons=true)
   
-<img src="https://img.shields.io/badge/C-blue?style=flat-square&logo=C&logoColor=A8B9CC"/>
+<img src="https://img.shields.io/badge/Css-blue?style=flat-square&logo=C&logoColor=A8B9CC"/>
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
   
 <img src="https://img.shields.io/badge/Java%20Script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 
