@@ -7,7 +7,7 @@
 <h3 align="center">Most Used Languages</h3>
 <p align="center">
   <a href="https://github.com/JYPIT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYPIT&layout=compact&show_icons=true&show_owner=JYPIT&hide_title=false&theme=nord&hide=Jupyter" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYPIT&layout=compact&show_icons=true&show_owner=JYPIT&hide_title=false&theme=nord" />
   </a>
 </p>
  
