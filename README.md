@@ -15,6 +15,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
 
 # Blog
-<a href="https://jypit.github.io/"><img src="https://img.shields.io/github/url?url=https%3A%2F%2Fimg.shields.io%2Fbadge%2FGitblog-03C75A"/></a>
+<a href="https://jypit.github.io/"><img src="https://img.shields.io/github/url?url=https%3A%2F%2Fimg.shields.io%2F/badge/%2FGitblog-03C75A"/></a>
 
 </div>
