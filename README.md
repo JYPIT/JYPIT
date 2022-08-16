@@ -7,10 +7,11 @@
 <h3 align="center">Most Used Languages</h3>
 <p align="center">
   <a href="https://github.com/JYPIT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${깃닉네임}&layout=compact&show_icons=true&show_owner=JYPIT&hide_title=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYPIT&layout=compact&show_icons=true&show_owner=JYPIT&hide_title=false&theme=nord&hide=Jupyter Notebook," />
   </a>
 </p>
-![JYP's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYPIT&show_icons=true)
+ 
+![JYPIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYPIT&show_icons=true)
 
 <img src="https://img.shields.io/badge/React-185b74?style=flat-round&logo=React&logoColor=A8B9CC"/>
 
