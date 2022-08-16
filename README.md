@@ -7,13 +7,13 @@
 <h3 align="center">🔥Stats🔥</h3>
 <p align="center">
   <a href="https://github.com/JYPIT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYPIT&hide=jupyter%20notebook&layout=compact&show_icons=true&show_owner=JYPIT&hide_title=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYPIT&hide=jupyter%20notebook&layout=compact&show_icons=true&show_owner=JYPIT&hide_title=true&theme=maroongold" />
   </a>
 </p>
  
 <p align="center">
   <a href="https://github.com/JYPIT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JYPIT&hide=total%20issues,total%20prs&hide_title=true&show_icons=trueinclude_all_commits=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JYPIT&hide=total%20issues,total%20prs&hide_title=true&show_icons=trueinclude_all_commits=true&theme=maroongold" />
   </a>
 </p>
 
