@@ -4,18 +4,18 @@
  
 <img src="https://user-images.githubusercontent.com/68772640/126259290-8e0f6218-584e-4e2f-b1d0-29484efdc0f3.gif" width="100%">
 
-<h3 align="center">Most Used Languages</h3>
+<h3 align="center">🔥Stats🔥</h3>
 <p align="center">
   <a href="https://github.com/JYPIT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYPIT&layout=compact&show_icons=true&show_owner=JYPIT&hide_title=false&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYPIT&hide=jupyter%20notebook&layout=compact&show_icons=true&show_owner=JYPIT&hide_title=true&theme=nord" />
   </a>
 </p>
+ 
 <p align="center">
   <a href="https://github.com/JYPIT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JYPIT&hide_title=true&show_icons=trueinclude_all_commits=false&theme=JYPIT" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JYPIT&hide=total%20issues,total%20prs&hide_title=true&show_icons=trueinclude_all_commits=true&theme=nord" />
   </a>
 </p>
-![JYPIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYPIT&show_icons=true)
 
 <img src="https://img.shields.io/badge/React-185b74?style=flat-round&logo=React&logoColor=A8B9CC"/>
 
