@@ -6,7 +6,7 @@
   
 ![JYP's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYPIT&show_icons=true)
   
-<img src="https://img.shields.io/badge/React-blue?style=flat-round&logo=React&logoColor=A8B9CC"/>
+<img src="https://img.shields.io/badge/React-185b74?style=flat-round&logo=React&logoColor=A8B9CC"/>
 
 <img src="https://img.shields.io/badge/Typescript-FCC624?style=flat-round&logo=Typescript&logoColor=black"/>
   
@@ -14,6 +14,9 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-round&logo=Python&logoColor=yellow"/>
 
-## Blog
-<a href="https://jypit.github.io/"><img src="https://img.shields.io/badge/GitBlog-3776AB?style=flat-round&logo=Github&logoColor=#222222"/>
+<hr>
+ 
+### 🚀Dev-Blog🚀
+ 
+<a href="https://jypit.github.io/"><img src="https://img.shields.io/badge/GitBlog-32345e?style=flat-round&logo=Github&logoColor=#32345e"/>
 </div>
