@@ -10,7 +10,11 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYPIT&layout=compact&show_icons=true&show_owner=JYPIT&hide_title=false&theme=nord" />
   </a>
 </p>
- 
+<p align="center">
+  <a href="https://github.com/JYPIT">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JYPIT&hide_title=true&show_icons=trueinclude_all_commits=false&theme=JYPIT" />
+  </a>
+</p>
 ![JYPIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=JYPIT&show_icons=true)
 
 <img src="https://img.shields.io/badge/React-185b74?style=flat-round&logo=React&logoColor=A8B9CC"/>
