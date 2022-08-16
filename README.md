@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
 
 # Blog
-<a href="https://blog.naver.com/jypit"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-<a href="https://jypit.github.io/"><img src="https://img.shields.io/badge/Gitblog-03C75A?style=flat-square&logo=Github&logoColor=gray"/></a>
+<a href="https://jypit.github.io/"><img src="https://img.shields.io/github/url?url=https%3A%2F%2Fimg.shields.io%2Fbadge%2FGitblog-03C75A"/></a>
 
 </div>
