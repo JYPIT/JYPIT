@@ -4,7 +4,7 @@
  
 <img src="https://user-images.githubusercontent.com/68772640/126259290-8e0f6218-584e-4e2f-b1d0-29484efdc0f3.gif" width="100%">
 
-<h3 align="center">🔥Stats🔥</h3>
+<h3 align="center">🔥 Stats 🔥</h3>
 <p align="center">
   <a href="https://github.com/JYPIT">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JYPIT&hide=jupyter%20notebook,css&layout=compact&show_icons=true&show_owner=JYPIT&hide_title=true&theme=gotham" />
@@ -27,7 +27,7 @@
 
 <hr>
  
-### 🚀Dev-Blog🚀
+### 🚀 Dev-Blog 🚀
  
 <a href="https://jypit.github.io/"><img src="https://img.shields.io/badge/GitBlog-32345e?style=flat-round&logo=Github&logoColor=#32345e"/>
 </div>
