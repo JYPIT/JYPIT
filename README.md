@@ -27,7 +27,7 @@
 
 <hr>
  
-### 🚀 Dev-Blog 🚀
+### 🚀 Dev-Log 🚀
  
 <a href="https://jypit.github.io/"><img src="https://img.shields.io/badge/GitBlog-32345e?style=flat-round&logo=Github&logoColor=#32345e"/>
 </div>
