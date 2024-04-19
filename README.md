@@ -2,7 +2,7 @@
 
 <div align='center'>
  
-<img src="https://user-images.githubusercontent.com/68772640/126259290-8e0f6218-584e-4e2f-b1d0-29484efdc0f3.gif" width="100%">
+![Gryffindor](https://github.com/JYPIT/JYPIT/assets/68772640/b68c0682-6781-48fe-bdda-62c4836b7718)
 
 <h3 align="center">🔥 Stats 🔥</h3>
 <p align="center">
