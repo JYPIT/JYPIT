@@ -1,8 +1,8 @@
-# Welcome:)
+# Hello:)
 
 <div align='center'>
  
-<img src="https://github.com/JYPIT/JYPIT/assets/68772640/65858444-259d-4663-9fed-7c243c616b84" alt="" width="70%">
+<img src="https://github.com/JYPIT/JYPIT/assets/68772640/32cdfdc9-c40c-4553-b142-a33bf146b716" alt="" width="70%">
 
 <h3 align="center">🔥 Stats 🔥</h3>
 <p align="center">
