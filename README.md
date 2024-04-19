@@ -2,7 +2,7 @@
 
 <div align='center'>
  
-<img src="https://github.com/JYPIT/JYPIT/assets/68772640/b68c0682-6781-48fe-bdda-62c4836b7718" alt="" width="70%">
+<img src="https://github.com/JYPIT/JYPIT/assets/68772640/65858444-259d-4663-9fed-7c243c616b84" alt="" width="70%">
 
 <h3 align="center">🔥 Stats 🔥</h3>
 <p align="center">
