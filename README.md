@@ -1,8 +1,7 @@
 # X
 
 <div align='center'>
- 
-<img src="https://github.com/JYPIT/JYPIT/assets/68772640/32cdfdc9-c40c-4553-b142-a33bf146b716" alt="" width="70%">
+
 
 <h3 align="center">🔥 Stats 🔥</h3>
 <p align="center">
